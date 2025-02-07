@@ -1,4 +1,4 @@
-# PlantDoc-AI-driven-Support-Tool
+# PlantDoc: AI-driven-Support-Tool
 
 ## Overview
 
