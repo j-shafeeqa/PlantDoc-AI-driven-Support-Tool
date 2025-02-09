@@ -1,5 +1,5 @@
 # PlantDoc: AI-driven-Support-Tool
-
+![image](https://github.com/user-attachments/assets/f9a9d5f0-5764-4e4c-a992-898c2fab41b0)
 ## Overview
 
 This project implements a deep learning-based approach for classifying plant diseases using a pretrained MobileNet model. The dataset consists of images of plant leaves, categorized into 38 disease classes, including healthy samples. The model is trained using PyTorch and fine-tuned with transfer learning, achieving a high accuracy of **99.61%**, which is a **0.41% improvement** over an existing model performing the same task. This improvement was made possible by enhancing the model and utilizing the dataset from Atharva Ingle's Kaggle notebook.
